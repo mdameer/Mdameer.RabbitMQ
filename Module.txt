@@ -1,0 +1,13 @@
+﻿Name: Mdameer.RabbitMQ
+AntiForgery: enabled
+Author: Mdameer
+Website: http://mdameer.com
+Version: 1.0
+OrchardVersion: 1.10
+Description: A message bus implementation using RabbitMQ.
+Features:
+    Mdameer.RabbitMQ:
+        Name: RabbitMQ Message Bus
+        Description: A message bus implementation using RabbitMQ.
+        Category: Hosting
+        Dependencies: Orchard.MessageBus
